@@ -1,0 +1,74 @@
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\bin\Debug\STAR_TEAM.exe.config
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\bin\Debug\STAR_TEAM.exe
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\bin\Debug\STAR_TEAM.pdb
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\bin\Debug\EntityFramework.dll
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\bin\Debug\EntityFramework.xml
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Lists.Classes.resources
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Lists.Teachers.resources
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Loading.resources
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\obj\Debug\STAR_TEAM.Main.resources
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Times.Times.resources
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\obj\Debug\STAR_TEAM.Properties.Resources.resources
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\obj\Debug\STAR_TEAM.csproj.GenerateResource.cache
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\obj\Debug\STAR_TEAM.csproj.CoreCompileInputs.cache
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\obj\Debug\STAR_TEAM.csproj.CopyComplete
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\obj\Debug\STAR_TEAM.exe
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\obj\Debug\STAR_TEAM.pdb
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\bin\Debug\STAR_TEAM.exe.config
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\bin\Debug\STAR_TEAM.exe
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\bin\Debug\STAR_TEAM.pdb
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\bin\Debug\EntityFramework.dll
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\bin\Debug\EntityFramework.xml
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.csprojAssemblyReference.cache
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Lists.Classes.resources
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Lists.Teachers.resources
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Loading.resources
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.Main.resources
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Times.Times.resources
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.Properties.Resources.resources
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.csproj.GenerateResource.cache
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.csproj.CoreCompileInputs.cache
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.csproj.CopyComplete
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.exe
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.pdb
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\bin\Debug\STAR_TEAM.exe.config
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\bin\Debug\STAR_TEAM.exe
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\bin\Debug\STAR_TEAM.pdb
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\bin\Debug\EntityFramework.dll
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\bin\Debug\EntityFramework.xml
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Lists.Classes.resources
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Lists.Teachers.resources
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Loading.resources
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.Main.resources
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Times.Times.resources
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.Properties.Resources.resources
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.csproj.GenerateResource.cache
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.csproj.CoreCompileInputs.cache
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.csproj.CopyComplete
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.exe
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.pdb
+E:\Projects\Desktop\STAR\STAR_TEAM - Copy - Copy\STAR_TEAM\obj\Debug\STAR_TEAM.csprojAssemblyReference.cache
+E:\Projects\Desktop\STAR\STAR_TEAM\STAR_TEAM\obj\Debug\STAR_TEAM.csprojAssemblyReference.cache
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\bin\Debug\STAR_TEAM.exe.config
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\obj\Debug\STAR_TEAM.exe
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\obj\Debug\STAR_TEAM.pdb
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\obj\Debug\STAR_TEAM.csprojResolveAssemblyReference.cache
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Lists.Classes.resources
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Lists.Teachers.resources
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Loading.resources
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\obj\Debug\STAR_TEAM.Main.resources
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\obj\Debug\STAR_TEAM.PL.Times.Times.resources
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\obj\Debug\STAR_TEAM.Properties.Resources.resources
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\obj\Debug\STAR_TEAM.csproj.GenerateResource.Cache
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\bin\Debug\STAR_TEAM.exe
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\bin\Debug\STAR_TEAM.pdb
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\bin\Debug\EntityFramework.dll
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\bin\Debug\EntityFramework.xml
+C:\Users\A Magdy\Documents\GitHub\STAR\STAR_TEAM\bin\Debug\EntityFramework.SqlServer.xml
